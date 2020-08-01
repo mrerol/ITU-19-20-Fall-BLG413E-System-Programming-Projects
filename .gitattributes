@@ -1,3 +1,3 @@
-.ko.cmd linguist-vendored
-.mod.o.cmd linguist-vendored
-.o.cmd linguist-vendored
+*.ko.cmd linguist-vendored
+*.mod.o.cmd linguist-vendored
+*.o.cmd linguist-vendored
